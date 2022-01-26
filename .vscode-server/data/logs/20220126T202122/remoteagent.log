@@ -1,0 +1,46 @@
+[2022-01-26 20:21:22.235] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2022-01-26 20:21:22.235] [remoteagent] [info] Extension host agent started.
+[2022-01-26 20:21:22.438] [remoteagent] [info] [127.0.0.1][07a61f61][ManagementConnection] New connection established.
+[2022-01-26 20:21:22.813] [remoteagent] [info] [127.0.0.1][81cd9de0][ExtensionHostConnection] New connection established.
+[2022-01-26 20:21:22.823] [remoteagent] [info] [127.0.0.1][81cd9de0][ExtensionHostConnection] <5306> Launched Extension Host Process.
+[2022-01-26 20:21:22.833] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/force-badname/User-Stories/User-Stories)
+[2022-01-26 20:21:22.833] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2022-01-26 20:21:23.008] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/force-badname/User-Stories/User-Stories)
+[2022-01-26 20:21:23.009] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2022-01-26 20:21:23.154] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/force-badname/User-Stories/User-Stories)
+[2022-01-26 20:21:23.155] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2022-01-26 20:21:23.331] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/force-badname/User-Stories/User-Stories)
+[2022-01-26 20:21:23.332] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2022-01-26 20:21:23.552] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/force-badname/User-Stories/User-Stories)
+[2022-01-26 20:21:23.552] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2022-01-26 20:21:23.707] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/force-badname/User-Stories/User-Stories)
+[2022-01-26 20:21:23.707] [remoteagent] [error] [File Watcher (parcel)] gave up attempting to restart watcher after error: Bad file descriptor
+[2022-01-26 20:21:43.831] [remoteagent] [info] [127.0.0.1][07a61f61][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-01-26 20:21:43.860] [remoteagent] [info] [127.0.0.1][81cd9de0][ExtensionHostConnection] <5306> Extension Host Process exited with code: 0, signal: null.
+[2022-01-26 20:21:45.834] [remoteagent] [info] [127.0.0.1][6abd2a4a][ManagementConnection] New connection established.
+[2022-01-26 20:21:46.118] [remoteagent] [info] [127.0.0.1][356695e1][ExtensionHostConnection] New connection established.
+[2022-01-26 20:21:46.126] [remoteagent] [info] [127.0.0.1][356695e1][ExtensionHostConnection] <5425> Launched Extension Host Process.
+[2022-01-26 20:21:55.900] [remoteagent] [info] [127.0.0.1][356695e1][ExtensionHostConnection] <5425> [0mGET /index.html/ [31m500[0m 17.410 ms - 234[0m
+
+[2022-01-26 20:28:43.844] [remoteagent] [info] [127.0.0.1][356695e1][ExtensionHostConnection] <5425> [0mGET /index.html/ [33m404[0m 10.174 ms - 150[0m
+
+[2022-01-26 20:33:25.975] [remoteagent] [info] [127.0.0.1][a02aaa7e][ManagementConnection] New connection established.
+[2022-01-26 20:33:26.680] [remoteagent] [info] [127.0.0.1][2198c662][ExtensionHostConnection] New connection established.
+[2022-01-26 20:33:26.794] [remoteagent] [info] [127.0.0.1][2198c662][ExtensionHostConnection] <5677> Launched Extension Host Process.
+[2022-01-26 20:33:37.804] [remoteagent] [info] [127.0.0.1][a02aaa7e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-01-26 20:33:37.852] [remoteagent] [info] [127.0.0.1][2198c662][ExtensionHostConnection] <5677> Extension Host Process exited with code: 0, signal: null.
+[2022-01-26 20:34:06.089] [remoteagent] [info] [127.0.0.1][356695e1][ExtensionHostConnection] <5425> [0mGET /index.html/ [33m404[0m 8.271 ms - 150[0m
+
+[2022-01-26 20:34:17.538] [remoteagent] [info] [127.0.0.1][356695e1][ExtensionHostConnection] <5425> [0mGET /index.html/ [33m404[0m 1.442 ms - 150[0m
+
+[2022-01-26 20:34:31.063] [remoteagent] [info] [127.0.0.1][6abd2a4a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-01-26 20:34:31.217] [remoteagent] [info] [127.0.0.1][356695e1][ExtensionHostConnection] <5425> Extension Host Process exited with code: 0, signal: null.

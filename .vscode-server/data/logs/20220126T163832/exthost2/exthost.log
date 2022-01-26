@@ -1,0 +1,29 @@
+[2022-01-26 16:38:46.303] [exthost] [info] Extension host with pid 1494 started
+[2022-01-26 16:38:46.314] [exthost] [info] Lock '/home/force-badname/.vscode-server/data/User/workspaceStorage/91d752cb256b493a191741175ab48973/vscode.lock': Lock acquired.
+[2022-01-26 16:38:46.346] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-01-26 16:38:46.397] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onLanguage:html'
+[2022-01-26 16:38:46.490] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-01-26 16:38:46.493] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-01-26 16:38:46.537] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-01-26 16:38:46.587] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-01-26 16:38:46.665] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-26 16:38:46.682] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-26 16:38:46.685] [exthost] [info] Eager extensions activated
+[2022-01-26 16:38:47.228] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/force-badname/User-Stories/User-Stories/User-Stories/index.html' is in submodule 'User-Stories'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-26 16:38:47.228] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/force-badname/User-Stories/User-Stories/User-Stories/index.html' is in submodule 'User-Stories'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-26 16:38:47.228] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/force-badname/User-Stories/User-Stories/User-Stories/index.html' is in submodule 'User-Stories'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-26 16:38:47.228] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/force-badname/User-Stories/User-Stories/User-Stories/index.html' is in submodule 'User-Stories'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-26 16:38:47.228] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/force-badname/User-Stories/User-Stories/User-Stories/index.html' is in submodule 'User-Stories'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-26 16:38:47.228] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/force-badname/User-Stories/User-Stories/User-Stories/index.html' is in submodule 'User-Stories'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-26 17:40:40.649] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/force-badname/User-Stories/User-Stories/User-Stories/script.js' is in submodule 'User-Stories'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-26 17:40:40.652] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/force-badname/User-Stories/User-Stories/User-Stories/script.js' is in submodule 'User-Stories'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-26 17:53:30.288] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-01-26 17:54:09.097] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+[2022-01-26 19:31:23.307] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/force-badname/User-Stories/User-Stories/User-Stories/index.html' is in submodule 'User-Stories'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-26 19:31:23.310] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/force-badname/User-Stories/User-Stories/User-Stories/index.html' is in submodule 'User-Stories'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-26 19:31:23.310] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/force-badname/User-Stories/User-Stories/User-Stories/index.html' is in submodule 'User-Stories'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-26 19:31:23.310] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/force-badname/User-Stories/User-Stories/User-Stories/index.html' is in submodule 'User-Stories'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-26 19:31:23.310] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/force-badname/User-Stories/User-Stories/User-Stories/index.html' is in submodule 'User-Stories'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-26 20:21:14.224] [exthost] [info] extension host terminating: received terminate message from renderer
+[2022-01-26 20:21:14.233] [exthost] [info] Lock '/home/force-badname/.vscode-server/data/User/workspaceStorage/91d752cb256b493a191741175ab48973/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-01-26 20:21:14.380] [exthost] [info] Extension host with pid 1494 exiting with code 0

@@ -1,0 +1,15 @@
+[2022-01-26 20:34:45.622] [exthost] [info] Extension host with pid 5929 started
+[2022-01-26 20:34:45.641] [exthost] [info] Lock '/home/force-badname/.vscode-server/data/User/workspaceStorage/ebdb82c1bea33ba749f5a1751c66c8e1/vscode.lock': Lock acquired.
+[2022-01-26 20:34:45.665] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-01-26 20:34:45.670] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-01-26 20:34:45.729] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-01-26 20:34:45.794] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-01-26 20:34:45.861] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-26 20:34:45.877] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-26 20:34:45.881] [exthost] [info] Eager extensions activated
+[2022-01-26 20:34:46.376] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-01-26 20:34:46.381] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-01-26 20:34:46.541] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-01-26 20:35:20.454] [exthost] [info] extension host terminating: received terminate message from renderer
+[2022-01-26 20:35:20.455] [exthost] [info] Lock '/home/force-badname/.vscode-server/data/User/workspaceStorage/ebdb82c1bea33ba749f5a1751c66c8e1/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-01-26 20:35:20.483] [exthost] [info] Extension host with pid 5929 exiting with code 0

@@ -1,0 +1,28 @@
+[2022-01-26 20:34:44.020] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2022-01-26 20:34:44.020] [remoteagent] [info] Extension host agent started.
+[2022-01-26 20:34:44.225] [remoteagent] [info] [127.0.0.1][5b634040][ManagementConnection] New connection established.
+[2022-01-26 20:34:44.737] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/force-badname/Agency-website/User-Stories)
+[2022-01-26 20:34:44.738] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2022-01-26 20:34:44.853] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/force-badname/Agency-website/User-Stories)
+[2022-01-26 20:34:44.853] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2022-01-26 20:34:44.981] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/force-badname/Agency-website/User-Stories)
+[2022-01-26 20:34:44.981] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2022-01-26 20:34:45.056] [remoteagent] [info] [127.0.0.1][01d9c254][ExtensionHostConnection] New connection established.
+[2022-01-26 20:34:45.063] [remoteagent] [info] [127.0.0.1][01d9c254][ExtensionHostConnection] <5929> Launched Extension Host Process.
+[2022-01-26 20:34:45.200] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/force-badname/Agency-website/User-Stories)
+[2022-01-26 20:34:45.201] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2022-01-26 20:34:45.386] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/force-badname/Agency-website/User-Stories)
+[2022-01-26 20:34:45.386] [remoteagent] [error] [File Watcher (parcel)] restarting watcher after error: Bad file descriptor
+[2022-01-26 20:34:45.502] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/force-badname/Agency-website/User-Stories)
+[2022-01-26 20:34:45.502] [remoteagent] [error] [File Watcher (parcel)] gave up attempting to restart watcher after error: Bad file descriptor
+[2022-01-26 20:35:20.454] [remoteagent] [info] [127.0.0.1][5b634040][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-01-26 20:35:20.490] [remoteagent] [info] [127.0.0.1][01d9c254][ExtensionHostConnection] <5929> Extension Host Process exited with code: 0, signal: null.
