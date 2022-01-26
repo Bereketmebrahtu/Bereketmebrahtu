@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+    background-color: bisque;
+}
+.nav {
+    display: flexbox;
+    justify-content: flex-start;
+    margin: auto;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    max-width: 30rem;
+    margin: 0 auto;
+    padding: 2rem;
+  }
+  
+  /* All inputs other than checkboxes & radios
+   * should be block display so they sit on a new line
+   */
+  input:not([type="checkbox"]):not([type="radio"]),
+  button,
+  textarea {
+    display: block;
+    font: inherit;
+    color: inherit;
+  }
