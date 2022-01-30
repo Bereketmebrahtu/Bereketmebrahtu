@@ -1,0 +1,31 @@
+[2022-01-27 11:57:09.313] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2022-01-27 11:57:09.313] [remoteagent] [info] Extension host agent started.
+[2022-01-27 11:57:09.640] [remoteagent] [info] [127.0.0.1][4a56dc9b][ManagementConnection] New connection established.
+[2022-01-27 11:57:10.409] [remoteagent] [info] [127.0.0.1][be5a4968][ExtensionHostConnection] New connection established.
+[2022-01-27 11:57:10.438] [remoteagent] [info] [127.0.0.1][be5a4968][ExtensionHostConnection] <95> Launched Extension Host Process.
+[2022-01-27 11:57:34.374] [remoteagent] [info] [127.0.0.1][4a56dc9b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-01-27 11:57:34.420] [remoteagent] [info] [127.0.0.1][be5a4968][ExtensionHostConnection] <95> Extension Host Process exited with code: 0, signal: null.
+[2022-01-27 11:57:36.143] [remoteagent] [info] [127.0.0.1][025d8e07][ManagementConnection] New connection established.
+[2022-01-27 11:57:36.976] [remoteagent] [info] [127.0.0.1][dd435943][ExtensionHostConnection] New connection established.
+[2022-01-27 11:57:36.981] [remoteagent] [info] [127.0.0.1][dd435943][ExtensionHostConnection] <165> Launched Extension Host Process.
+[2022-01-27 11:57:57.690] [remoteagent] [info] [127.0.0.1][dd435943][ExtensionHostConnection] <165> [0mGET /index.html/ [31m500[0m 10.537 ms - 224[0m
+
+[2022-01-27 12:52:52.031] [remoteagent] [info] [127.0.0.1][dd435943][ExtensionHostConnection] <165> [0mGET /index.html/ [31m500[0m 12.269 ms - 224[0m
+
+[2022-01-27 13:27:49.997] [remoteagent] [info] [127.0.0.1][dd435943][ExtensionHostConnection] <165> [0mGET /index.html/ [31m500[0m 3.802 ms - 224[0m
+
+[2022-01-27 13:29:22.395] [remoteagent] [info] [127.0.0.1][dd435943][ExtensionHostConnection] <165> [0mGET /index.html/ [31m500[0m 0.967 ms - 224[0m
+
+[2022-01-27 13:30:26.459] [remoteagent] [info] [127.0.0.1][dd435943][ExtensionHostConnection] <165> [0mGET /index.html/ [31m500[0m 3.086 ms - 224[0m
+
+[2022-01-27 13:37:38.574] [remoteagent] [info] [127.0.0.1][025d8e07][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-01-27 13:37:38.722] [remoteagent] [info] [127.0.0.1][dd435943][ExtensionHostConnection] <165> Extension Host Process exited with code: 0, signal: null.

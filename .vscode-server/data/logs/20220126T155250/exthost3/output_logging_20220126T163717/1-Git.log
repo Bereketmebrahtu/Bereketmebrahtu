@@ -1,9 +1,0 @@
-Validating found git in: git
-Using git 2.25.1 from git
-> git rev-parse --git-dir
-Open repository: /home/force-badname/User-Stories/User-Stories
-> git status -z -u
-> git show --textconv :User-Stories/index.html
-> git ls-files --stage -- /home/force-badname/User-Stories/User-Stories/User-Stories/index.html
-> git check-ignore -v -z --stdin
-> git status -z -u

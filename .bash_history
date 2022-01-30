@@ -603,3 +603,101 @@ git remote add origin https://github.com/Bereketmebrahtu/about-us.git
 git push -u origin main
 code .
 dir
+cd User-Stories-main
+ls
+rm README.md:Zone.Identifier
+ls
+rm img_chania.jpg:Zone.Identifier
+ls
+code .
+cd ..
+cd documents
+git clone https://github.com/Bereketmebrahtu/about-us.git
+git staus
+git status
+dir
+ls
+cd force-badname
+ls
+git init
+git status
+ls -a
+cd User-Stories-main 
+ls
+ls -a
+git init
+git clone https://github.com/Bereketmebrahtu/about-us.git
+ls -a
+git add .
+git checkout about-us
+git checkout "about-us"
+cd about-us
+git checkout
+ls
+touch index.html style.css script.js
+ls
+git add .
+git commit "first commit"
+git commit -m "first commit"
+git push -u origin main
+git push 
+git status
+git branch --unset-upstream
+git status
+ls
+code .
+git clone https://github.com/Bereketmebrahtu/fac-website.git
+dir 
+cd fac-website
+code .
+dir
+cd User-Stories
+cd User-Stories-main
+git branch 
+ls
+git branch feature1
+it 
+git branch 
+ls
+git init 
+git status
+ls
+cd about-us
+kls
+ls
+code .
+cd worspace.code-workspace
+cd workspace.code-workspace
+git init
+git status
+dir
+mkdir agency project
+dir
+rm -agency
+rm agency
+cd project
+git -a
+git status
+git clone https://github.com/Asmahan97/User-Stories.git
+git -a
+ls
+cd User-Stories
+ls
+git ls -a
+cd ..
+ls -a
+cd User-Stories-main
+ls
+dir
+cd project
+ls
+ls -a
+cd User-Stories
+git checkout about-us
+dir
+mkdir HTML tutorial
+dir
+rm HTML
+cd html-tutorial
+git clone https://github.com/Bereketmebrahtu/learning-area.git
+code .

@@ -1,0 +1,18 @@
+Validating found git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/force-badname
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/contact-us refs/remotes/contact-us
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :User-Stories-main/style.css
+> git ls-files --stage -- /home/force-badname/User-Stories-main/style.css
+> git cat-file -s 33281a2aa0a800a5135abf574138013719eed8b6
+> git show --textconv :User-Stories-main/index.html
+> git ls-files --stage -- /home/force-badname/User-Stories-main/index.html
+> git cat-file -s 2e9e1efd62a19660f931fc092fff126c4745d418
+> git check-ignore -v -z --stdin
