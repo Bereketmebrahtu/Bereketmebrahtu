@@ -76,3 +76,84 @@ Open repository: /home/force-badname
 > git remote --verbose
 > git config --get commit.template
 > git add -A -- .
+warning: adding embedded git repository: fac-website
+hint: You've added another git repository inside your current repository.
+hint: Clones of the outer repository will not contain the contents of
+hint: the embedded repository and will not know how to obtain it.
+hint: If you meant to add a submodule, use:
+hint: 
+hint: 	git submodule add <url> fac-website
+hint: 
+hint: If you added this path by mistake, you can remove it from the
+hint: index with:
+hint: 
+hint: 	git rm --cached fac-website
+hint: 
+hint: See "git help submodule" for more information.
+warning: adding embedded git repository: html-tutorial/learning-area
+> git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file -
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+> git status -z -u
+> git ls-files --stage -- /home/force-badname/html-tutorial/learning-area/html/introduction-to-html/navigation-menu-start/index.html
+> git show --textconv :html-tutorial/learning-area/html/introduction-to-html/navigation-menu-start/index.html
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/html-tutorial refs/remotes/html-tutorial
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/force-badname/html-tutorial/learning-area/html/introduction-to-html/navigation-menu-start/index.html
+> git status -z -u
+> git ls-files --stage -- /home/force-badname/html-tutorial/learning-area/html/introduction-to-html/navigation-menu-start/index.html
+> git show --textconv :html-tutorial/learning-area/html/introduction-to-html/navigation-menu-start/index.html
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/html-tutorial refs/remotes/html-tutorial
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 9a6538b0f536c6735e7979f15899ee421fa4a7d4.. -- /home/force-badname/html-tutorial/learning-area/html/introduction-to-html/navigation-menu-start/index.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/force-badname/html-tutorial/learning-area/html/introduction-to-html/navigation-menu-start/index.html
+> git show --textconv :html-tutorial/learning-area/html/introduction-to-html/navigation-menu-start/pictures.html
+> git ls-files --stage -- /home/force-badname/html-tutorial/learning-area/html/introduction-to-html/navigation-menu-start/pictures.html
+> git show --textconv :html-tutorial/learning-area/html/introduction-to-html/navigation-menu-start/index.html
+> git ls-files --stage -- /home/force-badname/html-tutorial/learning-area/html/introduction-to-html/navigation-menu-start/index.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/force-badname/html-tutorial/learning-area/html/introduction-to-html/navigation-menu-start/index.html
+> git show --textconv :html-tutorial/learning-area/html/introduction-to-html/navigation-menu-start/pictures.html
+> git ls-files --stage -- /home/force-badname/html-tutorial/learning-area/html/introduction-to-html/navigation-menu-start/pictures.html
+> git show --textconv :html-tutorial/learning-area/html/introduction-to-html/navigation-menu-start/projects.html
+> git ls-files --stage -- /home/force-badname/html-tutorial/learning-area/html/introduction-to-html/navigation-menu-start/projects.html
+> git show --textconv :html-tutorial/learning-area/html/introduction-to-html/navigation-menu-start/social.html
+> git ls-files --stage -- /home/force-badname/html-tutorial/learning-area/html/introduction-to-html/navigation-menu-start/social.html
+> git show --textconv :html-tutorial/learning-area/html/introduction-to-html/navigation-menu-start/index.html
+> git ls-files --stage -- /home/force-badname/html-tutorial/learning-area/html/introduction-to-html/navigation-menu-start/index.html
+> git show --textconv :html-tutorial/learning-area/html/introduction-to-html/navigation-menu-start/pictures.html
+> git ls-files --stage -- /home/force-badname/html-tutorial/learning-area/html/introduction-to-html/navigation-menu-start/pictures.html
+> git show --textconv :html-tutorial/learning-area/html/introduction-to-html/navigation-menu-start/projects.html
+> git ls-files --stage -- /home/force-badname/html-tutorial/learning-area/html/introduction-to-html/navigation-menu-start/projects.html
+> git show --textconv :html-tutorial/learning-area/html/introduction-to-html/navigation-menu-start/social.html
+> git ls-files --stage -- /home/force-badname/html-tutorial/learning-area/html/introduction-to-html/navigation-menu-start/social.html
+> git add -A -- /home/force-badname/html-tutorial/learning-area/html/introduction-to-html/navigation-menu-start/index.html /home/force-badname/html-tutorial/learning-area/html/introduction-to-html/navigation-menu-start/pictures.html /home/force-badname/html-tutorial/learning-area/html/introduction-to-html/navigation-menu-start/projects.html /home/force-badname/html-tutorial/learning-area/html/introduction-to-html/navigation-menu-start/social.html
+fatal: Pathspec '/home/force-badname/html-tutorial/learning-area/html/introduction-to-html/navigation-menu-start/index.html' is in submodule 'html-tutorial/learning-area'
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/html-tutorial refs/remotes/html-tutorial
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/force-badname/html-tutorial/learning-area/html/introduction-to-html/navigation-menu-start/social.html
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/html-tutorial refs/remotes/html-tutorial
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/html-tutorial refs/remotes/html-tutorial
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git add -A -- .
