@@ -2,7 +2,6 @@
 
  ✨ _welcome to my profile_ ✨  -->
 
-### Hi there, I'm Bereket- [Bereket][website] 👋
 - 🔭 I’m currently working on a [Execute Program][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers learning to code.
