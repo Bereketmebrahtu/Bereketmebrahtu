@@ -2,7 +2,10 @@
 
  ✨ _Welcome to my profile_ ✨  -->
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> b3a823cb9bd70f9216ceca0b5cb1ef983add7bab
 - 🔭 I’m currently working on a [Execute Program][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers learning to code.
