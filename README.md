@@ -45,11 +45,11 @@
 <br />
 <br/>
 
-[website]: https://Bereket.com
-[twitter]: https://twitter.com/Bereket
+[website]: https://foundersandcoders.com
+[twitter]: https://twitter.com/Bereketweldu
 [youtube]: https://youtube.com/Bereket
 [instagram]: https://instagram.com/Bereket
-[linkedin]: https://linkedin.com/in/Bereketmebrahtu 
+[linkedin]: https://linkedin.com/in/Bereket-mebrahtu 
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
