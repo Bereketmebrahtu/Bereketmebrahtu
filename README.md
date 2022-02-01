@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on [Execute Program][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers learning to code.
-- 🥅 2022 Goals: Collaborate more on projects, master Javascript and CSS and Git workflow.
+- 🥅 2022 Goals: Collaborate more on projects, master Javascript, CSS and Git workflow.
 - ⚡ Fun fact: I love to read and play football 
 
 ### Connect with me:
