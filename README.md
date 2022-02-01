@@ -2,7 +2,7 @@
 
  ✨ _Welcome to my profile_ ✨  -->
 
-- 🔭 I’m currently working on a [Execute Program][website]!
+- 🔭 I’m currently working on [Execute Program][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers learning to code.
 - 🥅 2022 Goals: Collaborate more on projects, master Javascript and CSS and Git workflow.
