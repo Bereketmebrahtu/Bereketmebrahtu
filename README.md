@@ -44,7 +44,7 @@
 [website]:https://www.executeprogram.com/
 [website]:https://scrimba.com/dashboard/
 [twitter]: https://twitter.com/Bereketweldu
-[youtube]: https://youtube.com/Bereket
+[youtube]: https://www.youtube.com/c/WebDevSimplified
 [instagram]: https://instagram.com/Bereket
 [linkedin]: https://linkedin.com/in/Bereket-mebrahtu 
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
