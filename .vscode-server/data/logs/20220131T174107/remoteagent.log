@@ -1,0 +1,16 @@
+[2022-01-31 17:41:07.768] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2022-01-31 17:41:07.769] [remoteagent] [info] Extension host agent started.
+[2022-01-31 17:41:08.112] [remoteagent] [info] [127.0.0.1][a3f36a60][ManagementConnection] New connection established.
+[2022-01-31 17:41:08.800] [remoteagent] [info] [127.0.0.1][6eebb2a3][ExtensionHostConnection] New connection established.
+[2022-01-31 17:41:08.813] [remoteagent] [info] [127.0.0.1][6eebb2a3][ExtensionHostConnection] <876> Launched Extension Host Process.
+[2022-01-31 17:41:15.135] [remoteagent] [info] [127.0.0.1][a3f36a60][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-01-31 17:41:15.193] [remoteagent] [info] [127.0.0.1][6eebb2a3][ExtensionHostConnection] <876> Extension Host Process exited with code: 0, signal: null.

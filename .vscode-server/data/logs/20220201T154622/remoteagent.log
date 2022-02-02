@@ -1,0 +1,32 @@
+[2022-02-01 15:46:22.977] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2022-02-01 15:46:22.977] [remoteagent] [info] Extension host agent started.
+[2022-02-01 15:46:23.238] [remoteagent] [info] [127.0.0.1][a5cb3f45][ManagementConnection] New connection established.
+[2022-02-01 15:46:23.636] [remoteagent] [info] [127.0.0.1][b07c8d02][ExtensionHostConnection] New connection established.
+[2022-02-01 15:46:23.797] [remoteagent] [info] [127.0.0.1][b07c8d02][ExtensionHostConnection] <142> Launched Extension Host Process.
+[2022-02-01 15:50:08.097] [remoteagent] [info] [127.0.0.1][b07c8d02][ExtensionHostConnection] <142> [0mGET /Cartoon-Man-Avatar-2.svg [33m404[0m 2.550 ms - 163[0m
+
+[2022-02-01 15:50:08.103] [remoteagent] [info] [127.0.0.1][b07c8d02][ExtensionHostConnection] <142> [0mGET /bereket%20avatar.svg [33m404[0m 3.579 ms - 159[0m
+
+[2022-02-01 15:50:08.206] [remoteagent] [info] [127.0.0.1][b07c8d02][ExtensionHostConnection] <142> [0mGET /favicon.ico [33m404[0m 0.710 ms - 150[0m
+
+[2022-02-01 15:52:46.899] [remoteagent] [info] [127.0.0.1][b07c8d02][ExtensionHostConnection] <142> [0mGET /Cartoon-Man-Avatar-2.svg [33m404[0m 4.020 ms - 163[0m
+
+[2022-02-01 15:52:46.900] [remoteagent] [info] [127.0.0.1][b07c8d02][ExtensionHostConnection] <142> [0mGET /bereket%20avatar.svg [33m404[0m 2.400 ms - 159[0m
+
+[2022-02-01 15:58:25.486] [remoteagent] [info] [127.0.0.1][b07c8d02][ExtensionHostConnection] <142> [0mGET /Cartoon-Man-Avatar-2.svg [33m404[0m 1.107 ms - 163[0m
+
+[2022-02-01 15:58:25.486] [remoteagent] [info] [127.0.0.1][b07c8d02][ExtensionHostConnection] <142> [0mGET /bereket%20avatar.svg [33m404[0m 1.155 ms - 159[0m
+
+[2022-02-01 16:11:20.716] [remoteagent] [info] [127.0.0.1][b07c8d02][ExtensionHostConnection] <142> [0mPOST /index.html [33m405[0m 0.446 ms - 0[0m
+
+[2022-02-01 16:15:32.114] [remoteagent] [info] [127.0.0.1][b07c8d02][ExtensionHostConnection] <142> [0mPOST /index.html [33m405[0m 0.159 ms - 0[0m
+

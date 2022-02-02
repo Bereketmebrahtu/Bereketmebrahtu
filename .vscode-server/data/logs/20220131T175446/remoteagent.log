@@ -1,0 +1,56 @@
+[2022-01-31 17:54:46.386] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2022-01-31 17:54:46.386] [remoteagent] [info] Extension host agent started.
+[2022-01-31 17:54:46.750] [remoteagent] [info] [127.0.0.1][3fc6c809][ManagementConnection] New connection established.
+[2022-01-31 17:54:47.116] [remoteagent] [info] [127.0.0.1][40054470][ExtensionHostConnection] New connection established.
+[2022-01-31 17:54:47.122] [remoteagent] [info] [127.0.0.1][40054470][ExtensionHostConnection] <150> Launched Extension Host Process.
+[2022-01-31 17:55:05.930] [remoteagent] [info] [127.0.0.1][40054470][ExtensionHostConnection] <150> [0mGET /asmahan%20avatar.svg [33m404[0m 3.383 ms - 159[0m
+
+[2022-01-31 17:55:05.941] [remoteagent] [info] [127.0.0.1][40054470][ExtensionHostConnection] <150> [0mGET /bereket%20avatar.svg [33m404[0m 4.707 ms - 159[0m
+
+[2022-01-31 17:55:06.106] [remoteagent] [info] [127.0.0.1][40054470][ExtensionHostConnection] <150> [0mGET /favicon.ico [33m404[0m 0.862 ms - 150[0m
+
+[2022-01-31 18:04:33.229] [remoteagent] [info] [127.0.0.1][40054470][ExtensionHostConnection] <150> [0mGET /asmahan%20avatar.svg [33m404[0m 1.841 ms - 159[0m
+
+[2022-01-31 18:04:33.229] [remoteagent] [info] [127.0.0.1][40054470][ExtensionHostConnection] <150> [0mGET /bereket%20avatar.svg [33m404[0m 1.910 ms - 159[0m
+
+[2022-01-31 18:07:34.433] [remoteagent] [info] [127.0.0.1][40054470][ExtensionHostConnection] <150> [0mGET /asmahan%20avatar.svg [33m404[0m 1.399 ms - 159[0m
+
+[2022-01-31 18:07:34.434] [remoteagent] [info] [127.0.0.1][40054470][ExtensionHostConnection] <150> [0mGET /bereket%20avatar.svg [33m404[0m 1.412 ms - 159[0m
+
+[2022-01-31 18:07:34.550] [remoteagent] [info] [127.0.0.1][40054470][ExtensionHostConnection] <150> [0mGET /favicon.ico [33m404[0m 1.063 ms - 150[0m
+
+[2022-01-31 18:08:55.704] [remoteagent] [info] [127.0.0.1][40054470][ExtensionHostConnection] <150> [0mGET /asmahan%20avatar.svg [33m404[0m 1.015 ms - 159[0m
+
+[2022-01-31 18:08:55.705] [remoteagent] [info] [127.0.0.1][40054470][ExtensionHostConnection] <150> [0mGET /bereket%20avatar.svg [33m404[0m 0.669 ms - 159[0m
+
+[2022-01-31 18:08:55.809] [remoteagent] [info] [127.0.0.1][40054470][ExtensionHostConnection] <150> [0mGET /favicon.ico [33m404[0m 0.667 ms - 150[0m
+
+[2022-01-31 18:10:57.030] [remoteagent] [info] [127.0.0.1][40054470][ExtensionHostConnection] <150> [0mGET /asmahan%20avatar.svg [33m404[0m 1.834 ms - 159[0m
+
+[2022-01-31 18:10:57.031] [remoteagent] [info] [127.0.0.1][40054470][ExtensionHostConnection] <150> [0mGET /bereket%20avatar.svg [33m404[0m 0.634 ms - 159[0m
+
+[2022-01-31 18:10:57.133] [remoteagent] [info] [127.0.0.1][40054470][ExtensionHostConnection] <150> [0mGET /favicon.ico [33m404[0m 0.721 ms - 150[0m
+
+[2022-01-31 18:13:51.278] [remoteagent] [info] [127.0.0.1][40054470][ExtensionHostConnection] <150> [0mGET /asmahan%20avatar.svg [33m404[0m 0.642 ms - 159[0m
+
+[2022-01-31 18:13:51.280] [remoteagent] [info] [127.0.0.1][40054470][ExtensionHostConnection] <150> [0mGET /bereket%20avatar.svg [33m404[0m 0.778 ms - 159[0m
+
+[2022-01-31 18:13:51.395] [remoteagent] [info] [127.0.0.1][40054470][ExtensionHostConnection] <150> [0mGET /favicon.ico [33m404[0m 0.459 ms - 150[0m
+
+[2022-01-31 18:14:59.418] [remoteagent] [info] [127.0.0.1][40054470][ExtensionHostConnection] <150> [0mGET /asmahan%20avatar.svg [33m404[0m 2.889 ms - 159[0m
+
+[2022-01-31 18:14:59.420] [remoteagent] [info] [127.0.0.1][40054470][ExtensionHostConnection] <150> [0mGET /bereket%20avatar.svg [33m404[0m 3.870 ms - 159[0m
+
+[2022-01-31 18:14:59.519] [remoteagent] [info] [127.0.0.1][40054470][ExtensionHostConnection] <150> [0mGET /favicon.ico [33m404[0m 0.843 ms - 150[0m
+
+[2022-01-31 18:27:33.709] [remoteagent] [info] [127.0.0.1][3fc6c809][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-01-31 18:27:33.801] [remoteagent] [info] [127.0.0.1][40054470][ExtensionHostConnection] <150> Extension Host Process exited with code: 0, signal: null.

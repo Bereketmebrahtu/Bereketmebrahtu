@@ -1,0 +1,18 @@
+[2022-01-31 17:41:09.728] [exthost] [info] Extension host with pid 876 started
+[2022-01-31 17:41:09.737] [exthost] [info] Lock '/home/force-badname/.vscode-server/data/User/workspaceStorage/e3bcfacf18c1f891d5a704c106d7179b/vscode.lock': Lock acquired.
+[2022-01-31 17:41:09.965] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onWebviewPanel:markdown.preview'
+[2022-01-31 17:41:10.053] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+[2022-01-31 17:41:10.072] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: '*'
+[2022-01-31 17:41:10.078] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.github
+[2022-01-31 17:41:10.105] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+[2022-01-31 17:41:10.202] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+[2022-01-31 17:41:10.330] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+[2022-01-31 17:41:10.369] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-31 17:41:10.390] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-31 17:41:10.394] [exthost] [info] Eager extensions activated
+[2022-01-31 17:41:11.366] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-01-31 17:41:11.374] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-01-31 17:41:11.466] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-01-31 17:41:15.134] [exthost] [info] extension host terminating: received terminate message from renderer
+[2022-01-31 17:41:15.135] [exthost] [info] Lock '/home/force-badname/.vscode-server/data/User/workspaceStorage/e3bcfacf18c1f891d5a704c106d7179b/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-01-31 17:41:15.166] [exthost] [info] Extension host with pid 876 exiting with code 0

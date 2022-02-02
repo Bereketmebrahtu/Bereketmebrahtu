@@ -1,0 +1,175 @@
+Validating found git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/force-badname/User-Stories
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/force-badname/User-Stories/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :index.html
+> git ls-files --stage -- /home/force-badname/User-Stories/index.html
+> git cat-file -s ca2ea0508c11bd0476b031d6bda1a7a8ade00d66
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/force-badname/User-Stories/index.html
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/force-badname/User-Stories/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/force-badname/User-Stories/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :images/Cartoon-Man-Avatar-2.svg
+> git ls-files --stage -- /home/force-badname/User-Stories/images/Cartoon-Man-Avatar-2.svg
+> git show --textconv :images/Cartoon-Man-Avatar-2.svg:Zone.Identifier
+> git ls-files --stage -- /home/force-badname/User-Stories/images/Cartoon-Man-Avatar-2.svg:Zone.Identifier
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/force-badname/User-Stories/images/Cartoon-Man-Avatar-2.svg:Zone.Identifier
+> git show --textconv :index.html
+> git ls-files --stage -- /home/force-badname/User-Stories/index.html
+> git cat-file -s ca2ea0508c11bd0476b031d6bda1a7a8ade00d66
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/force-badname/User-Stories/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/force-badname/User-Stories/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/force-badname/User-Stories/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git ls-files --stage -- /home/force-badname/User-Stories/index.html
+> git cat-file -s ca2ea0508c11bd0476b031d6bda1a7a8ade00d66
+> git show --textconv :index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/force-badname/User-Stories/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+git.stage 1
+git.stage.scmResources 1
+> git add -A -- /home/force-badname/User-Stories/images/Cartoon-Man-Avatar-2.svg
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/force-badname/User-Stories/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git ls-files --stage -- /home/force-badname/User-Stories/index.html
+> git cat-file -s ca2ea0508c11bd0476b031d6bda1a7a8ade00d66
+> git show --textconv :index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/force-badname/User-Stories/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+git.stage 1
+git.stage.scmResources 1
+> git add -A -- /home/force-badname/User-Stories/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/force-badname/User-Stories/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git ls-files --stage -- /home/force-badname/User-Stories/index.html
+> git cat-file -s 966ed91189dd15a7560ff2bc3a460ed93165d253
+> git show --textconv :index.html
+git.stage 1
+git.stage.scmResources 1
+> git add -A -- /home/force-badname/User-Stories/images/Cartoon-Man-Avatar-2.svg:Zone.Identifier
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/force-badname/User-Stories/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git ls-files --stage -- /home/force-badname/User-Stories/index.html
+> git cat-file -s 966ed91189dd15a7560ff2bc3a460ed93165d253
+> git show --textconv :index.html
+git.stage 1
+git.stage.scmResources 1
+> git add -A -- /home/force-badname/User-Stories/images/Female-Avatar-5.svg
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/force-badname/User-Stories/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git ls-files --stage -- /home/force-badname/User-Stories/index.html
+> git cat-file -s 966ed91189dd15a7560ff2bc3a460ed93165d253
+> git show --textconv :index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/force-badname/User-Stories/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git add -A -- /home/force-badname/User-Stories/images/Female-Avatar-5.svg:Zone.Identifier
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/force-badname/User-Stories/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git ls-files --stage -- /home/force-badname/User-Stories/index.html
+> git cat-file -s 966ed91189dd15a7560ff2bc3a460ed93165d253
+> git show --textconv :index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/force-badname/User-Stories/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git log --oneline --cherry main...main@{upstream} --
+> git pull --tags origin main
+From https://github.com/AsmahanM/User-Stories
+ * branch            main       -> FETCH_HEAD
+> git push origin main:main
+> git ls-files --stage -- /home/force-badname/User-Stories/index.html
+> git cat-file -s 966ed91189dd15a7560ff2bc3a460ed93165d253
+> git show --textconv :index.html
+To https://github.com/AsmahanM/User-Stories.git
+   6c4ae77..e7b532d  main -> main
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template

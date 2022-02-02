@@ -701,3 +701,49 @@ rm HTML
 cd html-tutorial
 git clone https://github.com/Bereketmebrahtu/learning-area.git
 code .
+dir
+git clone https://github.com/AsmahanM/Agency-Website.git
+cd Agency-website
+cd Agency-Website
+touch index.html style.css script.js
+ls
+git add .
+git commit -m "first commit"
+code .
+dir 
+cd Bereketmebrahtu
+ls
+code .
+git clone https://github.com/AsmahanM/User-Stories.git
+dir 
+cd User-Stories
+ls
+code .
+dir
+cd User-Stories
+ls
+code .
+dir
+cd User-Stories
+code .
+dir
+cd README.md
+cd README
+dir
+cd User-Stories
+code .
+dir
+cd User-Stories
+code .
+$curl --verbose google.com
+$cur
+curl --verbose google.com
+npx degit 'foundersandcoders/coursebook/src/workshops/functions-callbacks-async/starter-files#main' functions-callbacks-async
+dir
+cd functions-callbacks-async
+code .
+npx degit 'foundersandcoders/coursebook/src/workshops/learn-fetch/starter-files#main' learn-fetch
+DIR
+dir
+cd learn-fetch
+code .

@@ -1,0 +1,11 @@
+[2022-02-02 20:24:28.430] [exthost] [info] Extension host with pid 1469 started
+[2022-02-02 20:24:28.438] [exthost] [info] Lock '/home/force-badname/.vscode-server/data/User/workspaceStorage/67d3437e5e22d7645c0069142d176efb/vscode.lock': Lock acquired.
+[2022-02-02 20:24:28.493] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-02-02 20:24:28.501] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-02-02 20:24:28.550] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-02-02 20:24:28.655] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-02-02 20:24:28.738] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-02 20:24:28.755] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-02 20:24:28.759] [exthost] [info] Eager extensions activated
+[2022-02-02 20:25:10.248] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-02-02 20:25:10.426] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onLanguage:html'

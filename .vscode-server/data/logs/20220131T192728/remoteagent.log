@@ -1,0 +1,30 @@
+[2022-01-31 19:27:28.561] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2022-01-31 19:27:28.561] [remoteagent] [info] Extension host agent started.
+[2022-01-31 19:27:28.758] [remoteagent] [info] [127.0.0.1][2a95ccdd][ManagementConnection] New connection established.
+[2022-01-31 19:27:29.363] [remoteagent] [info] [127.0.0.1][32e12285][ExtensionHostConnection] New connection established.
+[2022-01-31 19:27:29.373] [remoteagent] [info] [127.0.0.1][32e12285][ExtensionHostConnection] <95> Launched Extension Host Process.
+[2022-01-31 19:27:37.909] [remoteagent] [info] [127.0.0.1][32e12285][ExtensionHostConnection] <95> [0mGET /Cartoon-Man-Avatar-2.svg [33m404[0m 4.150 ms - 163[0m
+
+[2022-01-31 19:27:37.912] [remoteagent] [info] [127.0.0.1][32e12285][ExtensionHostConnection] <95> [0mGET /bereket%20avatar.svg [33m404[0m 1.960 ms - 159[0m
+
+[2022-01-31 19:31:47.814] [remoteagent] [info] [127.0.0.1][32e12285][ExtensionHostConnection] <95> [0mGET /Cartoon-Man-Avatar-2.svg [33m404[0m 4.133 ms - 163[0m
+
+[2022-01-31 19:31:47.818] [remoteagent] [info] [127.0.0.1][32e12285][ExtensionHostConnection] <95> [0mGET /bereket%20avatar.svg [33m404[0m 1.597 ms - 159[0m
+
+[2022-01-31 19:47:17.099] [remoteagent] [info] [127.0.0.1][32e12285][ExtensionHostConnection] <95> [0mGET /Cartoon-Man-Avatar-2.svg [33m404[0m 5.743 ms - 163[0m
+
+[2022-01-31 19:47:17.101] [remoteagent] [info] [127.0.0.1][32e12285][ExtensionHostConnection] <95> [0mGET /bereket%20avatar.svg [33m404[0m 5.553 ms - 159[0m
+
+[2022-01-31 20:00:34.676] [remoteagent] [info] [127.0.0.1][32e12285][ExtensionHostConnection] <95> [0mGET /Cartoon-Man-Avatar-2.svg [33m404[0m 4.076 ms - 163[0m
+
+[2022-01-31 20:11:33.646] [remoteagent] [info] [127.0.0.1][2a95ccdd][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-01-31 20:11:33.795] [remoteagent] [info] [127.0.0.1][32e12285][ExtensionHostConnection] <95> Extension Host Process exited with code: 0, signal: null.
