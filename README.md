@@ -41,7 +41,8 @@
 <br />
 <br/>
 
-[website]: https://foundersandcoders.com
+[website]:https://www.executeprogram.com/
+[website]:https://scrimba.com/dashboard/
 [twitter]: https://twitter.com/Bereketweldu
 [youtube]: https://youtube.com/Bereket
 [instagram]: https://instagram.com/Bereket
