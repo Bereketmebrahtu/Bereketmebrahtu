@@ -8,14 +8,14 @@
 - 🥅 2022 Goals: Collaborate more on projects, master Javascript, CSS and Git workflow.
 - ⚡ Fun fact: I love to read and play football 
 
-## ✨  FAC Markup
+## ✨  FAC Markup Workshop
  
 | Git workflow | Semantic HTML | Accessibility |
 | --- | --- | --- | 
 | Git Workflow | Semantics |Learn Accessibility ||
 |  Collaborating on code using Git and GitHub branches, pull requests, and resolving merge conflicts. |Using the right HTML tags to represent elements on a page. |How different users browse the web to make your sites accessible to everyone. |
 
-## HTTP
+## HTTP Workshop
 | Asynchronous JS workshop | A sync | DOM challenge|
 | --- | --- | --- | 
 | Function callbacks, & async |Fetch & Promise |Dom Manupilation ||
