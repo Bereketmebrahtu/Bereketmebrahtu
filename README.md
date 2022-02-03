@@ -8,14 +8,14 @@
 - 🥅 2022 Goals: Collaborate more on projects, master Javascript, CSS and Git workflow.
 - ⚡ Fun fact: I love to read and play football 
 
-## ✨  Fac Markup
+## ✨  FAC Markup
 
 | Git workflow | Semantic HTML | Accessibility |
 | --- | --- | --- | 
-| content | content | content |
+| Git Workflow |  Collaborating on code using Git and GitHub branches, pull requests, and resolving merge conflicts. | Using the right HTML tags to represent elements on a page.|How different users browse the web to make your sites accessible to everyone.|
 | text | text | text |
 
-  |Git Workflow |  Collaborating on code using Git and GitHub:-branches, pull requests, and resolving merge conflicts.|
+
 
 ### Connect with me:
 
