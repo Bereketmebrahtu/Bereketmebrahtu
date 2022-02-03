@@ -1,16 +1,21 @@
-### Hi there, I am Bereket - Aspiring Software Developer👋
+## Hi there, I am Bereket - Aspiring Software Developer👋
 
  ✨ _Welcome to my profile_ ✨  -->
 
-<<<<<<< HEAD
-
-=======
->>>>>>> b3a823cb9bd70f9216ceca0b5cb1ef983add7bab
 - 🔭 I’m currently working on a [Execute Program][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers learning to code.
 - 🥅 2022 Goals: Collaborate more on projects, master Javascript and CSS and Git workflow.
 - ⚡ Fun fact: I love to read and play football 
+
+## ✨  Fac Markup
+
+| Git workflow | Semantic HTML | Accessibility |
+| --- | --- | --- | 
+| content | content | content |
+| text | text | text |
+
+  |Git Workflow |  Collaborating on code using Git and GitHub:-branches, pull requests, and resolving merge conflicts.|
 
 ### Connect with me:
 
