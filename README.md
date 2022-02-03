@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a [Execute Program][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers learning to code.
-- 🥅 2022 Goals: Collaborate more on projects, master Javascript and CSS and Git workflow.
+- 🥅 2022 Goals: Collaborate more on projects, master Javascript, CSS and Git workflow.
 - ⚡ Fun fact: I love to read and play football 
 
 ## ✨  Fac Markup
@@ -50,12 +50,13 @@
 <br />
 <br/>
 
-[website]: https://Bereket.com
-[twitter]: https://twitter.com/Bereket
-[youtube]: https://youtube.com/Bereket
+[website]:https://www.executeprogram.com/
+[website]:https://scrimba.com/dashboard/
+[twitter]: https://twitter.com/Bereketweldu
+[youtube]: https://www.youtube.com/c/WebDevSimplified
 [instagram]: https://instagram.com/Bereket
-[linkedin]: https://linkedin.com/in/Bereketmebrahtu 
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[linkedin]: https://linkedin.com/in/Bereket-mebrahtu 
+[webdevplaylist]: https://www.youtube.com/watch?v=RGOj5yH7evk
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
