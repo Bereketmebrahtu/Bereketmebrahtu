@@ -3,7 +3,7 @@
  ✨ _Welcome to my profile_ ✨  -->
 
 - 🔭 I’m currently working on a [Execute Program][website]!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently on a road map to full stack 🤣
 - 👯 I’m looking to collaborate with other developers learning to code.
 - 🥅 2022 Goals: Collaborate more on projects, master Javascript, CSS and Git workflow.
 - ⚡ Fun fact: I love to read and play football 
@@ -35,7 +35,7 @@
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools for current/future Learning:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
