@@ -3,10 +3,22 @@
 2. Add a class of "highlight", or
 3. Remove the class of "highlight" if already present
 e.g. "<p class="para">Hello</p>" -> "<p class="para highlight">Hello</p>"
+
 */
+const btnEl = document.querySelector('#toggle-highlight');
+
+
+
 function toggleHighlight() {
+
+
+     const selector = document.querySelectorAll('p')[1];
+     selector.classList.toggle('highlight');
+
   // your code here
 }
+
+btnEl.addEventListener('click', toggleHighlight) 
 
 /* CHALLENGE 2
 1. Take an array of strings as a parameter
@@ -16,7 +28,18 @@ e.g. generateList(["hello", "world"]) -> <ul>
                                            <li>world</li>
                                           </ul>
 */
+
+
+const buttonEl = document.querySelector('generate-list')
+buttonEl.addEventListener('click', generateList)
+
 function generateList(array) {
+const pre = pre.setAttribute('ul')
+
+
+
+  
+
   // your code here
 }
 

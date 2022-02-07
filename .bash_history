@@ -747,3 +747,30 @@ DIR
 dir
 cd learn-fetch
 code .
+npx degit 'foundersandcoders/coursebook/src/workshops/dom-challenge/starter-files#main' dom-challenge
+dir
+cd dom-challenge
+code .
+git clone https://github.com/Bereketmebrahtu/wordle.git
+dir 
+echo "# wordle" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Bereketmebrahtu/wordle.git
+git push -u origin main
+git clone 
+git clone https://github.com/Bereketmebrahtu/wordle.git
+cd wordle
+ls
+code .
+dir
+cd dom-challenge
+ls
+code .
+npx degit 'foundersandcoders/coursebook/src/workshops/learn-fetch/starter-files#main' learn-fetch
+git clone npx degit 'foundersandcoders/coursebook/src/workshops/learn-fetch/starter-files#main' learn-fetch
+dir
+cd learn-fetch
+code .

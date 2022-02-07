@@ -14,9 +14,11 @@ section + section {
   margin-top: 4rem;
 }
 
+
 .font-serif {
   font-family: Georgia, serif;
   font-size: 1.125rem;
+
 }
 
 /* All inputs other than checkboxes & radios

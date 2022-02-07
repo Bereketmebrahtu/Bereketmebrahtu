@@ -1,0 +1,75 @@
+Validating found git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/force-badname/Bereketmebrahtu
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/Bereketmebrahtu refs/remotes/Bereketmebrahtu
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :README.md
+> git ls-files --stage -- /home/force-badname/Bereketmebrahtu/README.md
+> git cat-file -s 040f4b5f3ed17c3b78b9384c31003d45de8eb3e1
+> git check-ignore -v -z --stdin
+> git add -A -- .
+> git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/Bereketmebrahtu refs/remotes/Bereketmebrahtu
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/force-badname/Bereketmebrahtu/README.md
+> git cat-file -s f11f8631e120e17d1c4beb150ef3f1f134ad677c
+> git show --textconv :README.md
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git log --oneline --cherry Bereketmebrahtu...Bereketmebrahtu@{upstream} --
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/Bereketmebrahtu refs/remotes/Bereketmebrahtu
+> git pull --tags origin Bereketmebrahtu
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+From https://github.com/Bereketmebrahtu/Bereketmebrahtu
+ * branch            Bereketmebrahtu -> FETCH_HEAD
+> git push origin Bereketmebrahtu:Bereketmebrahtu
+> git ls-files --stage -- /home/force-badname/Bereketmebrahtu/README.md
+> git cat-file -s f11f8631e120e17d1c4beb150ef3f1f134ad677c
+> git show --textconv :README.md
+To https://github.com/Bereketmebrahtu/Bereketmebrahtu.git
+   78f722b..d65cbbd  Bereketmebrahtu -> Bereketmebrahtu
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/Bereketmebrahtu refs/remotes/Bereketmebrahtu
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/force-badname/Bereketmebrahtu/README.md
+> git cat-file -s f11f8631e120e17d1c4beb150ef3f1f134ad677c
+> git show --textconv :README.md
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/Bereketmebrahtu refs/remotes/Bereketmebrahtu
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --oneline --cherry Bereketmebrahtu...Bereketmebrahtu@{upstream} --
+> git pull --tags origin Bereketmebrahtu
+From https://github.com/Bereketmebrahtu/Bereketmebrahtu
+ * branch            Bereketmebrahtu -> FETCH_HEAD
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/Bereketmebrahtu refs/remotes/Bereketmebrahtu
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/force-badname/Bereketmebrahtu/README.md
+> git cat-file -s f11f8631e120e17d1c4beb150ef3f1f134ad677c
+> git show --textconv :README.md
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/Bereketmebrahtu refs/remotes/Bereketmebrahtu
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template

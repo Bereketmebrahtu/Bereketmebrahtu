@@ -1,0 +1,17 @@
+[2022-02-06 14:32:33.218] [exthost] [info] Extension host with pid 142 started
+[2022-02-06 14:32:33.235] [exthost] [info] Lock '/home/force-badname/.vscode-server/data/User/workspaceStorage/67d3437e5e22d7645c0069142d176efb/vscode.lock': Lock acquired.
+[2022-02-06 14:32:33.423] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-02-06 14:32:33.485] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-02-06 14:32:33.771] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-02-06 14:32:33.775] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-02-06 14:32:33.877] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-02-06 14:32:33.958] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-02-06 14:32:34.072] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-06 14:32:34.095] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-06 14:32:34.102] [exthost] [info] Eager extensions activated
+[2022-02-06 14:32:34.765] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 2949
+[2022-02-06 14:32:36.197] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-02-06 14:32:36.206] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-02-06 14:32:40.836] [exthost] [info] extension host terminating: received terminate message from renderer
+[2022-02-06 14:32:40.836] [exthost] [info] Lock '/home/force-badname/.vscode-server/data/User/workspaceStorage/67d3437e5e22d7645c0069142d176efb/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-02-06 14:32:40.882] [exthost] [info] Extension host with pid 142 exiting with code 0

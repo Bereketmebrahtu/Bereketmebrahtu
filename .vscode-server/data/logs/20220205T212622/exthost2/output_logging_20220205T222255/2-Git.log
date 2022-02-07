@@ -1,0 +1,22 @@
+[2022-02-05T22:22:56.033Z] Validating found git in: git
+[2022-02-05T22:22:56.074Z] Using git 2.25.1 from git
+[2022-02-05T22:22:56.159Z] > git rev-parse --git-dir [23ms]
+[2022-02-05T22:22:56.164Z] Open repository: /home/force-badname/wordle
+[2022-02-05T22:22:56.181Z] > git symbolic-ref --short HEAD [1ms]
+[2022-02-05T22:22:56.186Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/UI-interface refs/remotes/UI-interface [1ms]
+[2022-02-05T22:22:56.196Z] > git remote --verbose [2ms]
+[2022-02-05T22:22:56.196Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+[2022-02-05T22:22:56.210Z] > git config --get commit.template [6ms]
+[2022-02-05T22:22:56.508Z] > git ls-files --stage -- /home/force-badname/wordle/script.js [6ms]
+[2022-02-05T22:22:56.515Z] > git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 [1ms]
+[2022-02-05T22:22:59.884Z] > git ls-files --stage -- /home/force-badname/wordle/index.html [2ms]
+[2022-02-05T22:22:59.888Z] > git cat-file -s 4f4d87d875aa6f9b272d5577ff103b373b89f107 [1ms]
+[2022-02-05T22:23:04.599Z] > git symbolic-ref --short HEAD [6ms]
+[2022-02-05T22:23:04.605Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/UI-interface refs/remotes/UI-interface [1ms]
+[2022-02-05T22:23:04.615Z] > git remote --verbose [1ms]
+[2022-02-05T22:23:04.615Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+[2022-02-05T22:23:04.623Z] > git config --get commit.template [1ms]
+[2022-02-05T22:23:47.821Z] > git ls-files --stage -- /home/force-badname/wordle/styles.css [3ms]
+[2022-02-05T22:23:47.827Z] > git cat-file -s 041b85c474d24e2cc4722c367fdb1e1cdaed4223 [1ms]
+[2022-02-05T22:36:41.480Z] > git ls-files --stage -- /home/force-badname/wordle/script.js [1ms]
+[2022-02-05T22:36:41.486Z] > git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 [2ms]

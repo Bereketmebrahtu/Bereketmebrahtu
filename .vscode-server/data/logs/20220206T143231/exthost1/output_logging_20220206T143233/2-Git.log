@@ -1,0 +1,11 @@
+[2022-02-06T14:32:34.029Z] Validating found git in: git
+[2022-02-06T14:32:34.062Z] Using git 2.25.1 from git
+[2022-02-06T14:32:34.113Z] > git rev-parse --git-dir [1ms]
+[2022-02-06T14:32:34.123Z] Open repository: /home/force-badname
+[2022-02-06T14:32:34.465Z] > git ls-files --stage -- /home/force-badname/dom-challenge/solution/dom.js [4ms]
+[2022-02-06T14:32:34.473Z] > git cat-file -s 82eff1f8346eb0bd53f5f54cde4b85dd8f51d2a0 [0ms]
+[2022-02-06T14:32:34.652Z] > git symbolic-ref --short HEAD [6ms]
+[2022-02-06T14:32:34.661Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/DOM-challenge refs/remotes/DOM-challenge [4ms]
+[2022-02-06T14:32:34.674Z] > git remote --verbose [2ms]
+[2022-02-06T14:32:34.674Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [7ms]
+[2022-02-06T14:32:34.789Z] > git config --get commit.template [1ms]

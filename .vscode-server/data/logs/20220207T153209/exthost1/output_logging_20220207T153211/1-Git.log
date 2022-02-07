@@ -1,0 +1,23 @@
+[2022-02-07T15:32:12.761Z] Validating found git in: git
+[2022-02-07T15:32:12.907Z] Using git 2.25.1 from git
+[2022-02-07T15:32:13.026Z] > git rev-parse --git-dir [2ms]
+[2022-02-07T15:32:13.039Z] Open repository: /home/force-badname
+[2022-02-07T15:32:13.430Z] > git ls-files --stage -- /home/force-badname/learn-fetch/workshop.html [8ms]
+[2022-02-07T15:32:13.439Z] > git cat-file -s e56f4874e288cc694727ed14fda797029ce8d7ab [2ms]
+[2022-02-07T15:32:13.806Z] > git symbolic-ref --short HEAD [17ms]
+[2022-02-07T15:32:13.836Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/DOM-challenge refs/remotes/DOM-challenge [13ms]
+[2022-02-07T15:32:13.874Z] > git remote --verbose [8ms]
+[2022-02-07T15:32:13.877Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [27ms]
+[2022-02-07T15:32:15.952Z] > git config --get commit.template [314ms]
+[2022-02-07T15:33:12.774Z] > git ls-files --stage -- /home/force-badname/learn-fetch/solution.html [6ms]
+[2022-02-07T15:33:12.786Z] > git cat-file -s 2a673fb7184c27d2fb8a8a1cc7c08bace081f308 [3ms]
+[2022-02-07T15:33:14.500Z] > git ls-files --stage -- /home/force-badname/learn-fetch/workshop.html [12ms]
+[2022-02-07T15:33:14.517Z] > git cat-file -s e56f4874e288cc694727ed14fda797029ce8d7ab [4ms]
+[2022-02-07T15:33:47.083Z] > git checkout -q -b learn-fetch --no-track HEAD [115ms]
+[2022-02-07T15:33:47.291Z] > git symbolic-ref --short HEAD [2ms]
+[2022-02-07T15:33:47.303Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/learn-fetch refs/remotes/learn-fetch [3ms]
+[2022-02-07T15:33:47.324Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [12ms]
+[2022-02-07T15:33:47.326Z] > git remote --verbose [6ms]
+[2022-02-07T15:33:49.730Z] > git config --get commit.template [2250ms]
+[2022-02-07T15:33:49.943Z] > git ls-files --stage -- /home/force-badname/learn-fetch/workshop.html [4ms]
+[2022-02-07T15:33:49.952Z] > git cat-file -s e56f4874e288cc694727ed14fda797029ce8d7ab [2ms]

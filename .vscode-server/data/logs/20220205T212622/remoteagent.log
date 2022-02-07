@@ -1,0 +1,25 @@
+[2022-02-05 21:26:22.904] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2022-02-05 21:26:22.904] [remoteagent] [info] Extension host agent started.
+[2022-02-05 21:26:23.006] [remoteagent] [info] [127.0.0.1][927a8c53][ManagementConnection] New connection established.
+[2022-02-05 21:26:24.521] [remoteagent] [info] [127.0.0.1][9f523601][ExtensionHostConnection] New connection established.
+[2022-02-05 21:26:24.529] [remoteagent] [info] [127.0.0.1][9f523601][ExtensionHostConnection] <95> Launched Extension Host Process.
+[2022-02-05 21:31:06.539] [remoteagent] [info] [127.0.0.1][9f523601][ExtensionHostConnection] <95> [0mGET /favicon.ico [33m404[0m 3.244 ms - 150[0m
+
+[2022-02-05 22:22:54.277] [remoteagent] [info] [127.0.0.1][cfc5248f][ManagementConnection] New connection established.
+[2022-02-05 22:22:55.113] [remoteagent] [info] [127.0.0.1][84b8573f][ExtensionHostConnection] New connection established.
+[2022-02-05 22:22:55.142] [remoteagent] [info] [127.0.0.1][84b8573f][ExtensionHostConnection] <693> Launched Extension Host Process.
+[2022-02-05 22:23:06.672] [remoteagent] [info] [127.0.0.1][84b8573f][ExtensionHostConnection] <693> [0mGET /favicon.ico [33m404[0m 1.692 ms - 150[0m
+
+[2022-02-05 22:36:45.093] [remoteagent] [info] [127.0.0.1][cfc5248f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-02-05 22:36:45.209] [remoteagent] [info] [127.0.0.1][84b8573f][ExtensionHostConnection] <693> Extension Host Process exited with code: 0, signal: null.
+[2022-02-06 01:55:36.357] [remoteagent] [info] [127.0.0.1][927a8c53][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-02-06 01:55:36.652] [remoteagent] [info] [127.0.0.1][9f523601][ExtensionHostConnection] <95> Extension Host Process exited with code: 0, signal: null.

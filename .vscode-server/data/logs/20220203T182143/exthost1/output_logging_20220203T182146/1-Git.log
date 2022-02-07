@@ -1,0 +1,14 @@
+Validating found git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/force-badname/Bereketmebrahtu
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/Bereketmebrahtu refs/remotes/Bereketmebrahtu
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :README.md
+> git ls-files --stage -- /home/force-badname/Bereketmebrahtu/README.md
+> git cat-file -s 040f4b5f3ed17c3b78b9384c31003d45de8eb3e1
