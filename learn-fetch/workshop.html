@@ -8,8 +8,10 @@
   <body>
     <h1>Open the console</h1>
     <script>
-    const getResponse = fetch("https://pokeapi.co/api/v2/pokemon/pikachu").then((response)=> {
-     console.log(getResponse)
+    const getResponse = fetch("https://pokeapi.co/api/v2/pokemon/pikachu").then((response)=> { response.json().then((data) => {
+      console.log(data)
+    })
+   
     })
     </script>
   </body>
