@@ -3,7 +3,7 @@
  ✨ _Welcome to my profile_ ✨  -->
 
 - 🔭 I’m currently working on a [Execute Program][website]!
-- 🌱 I’m currently on a road map to full stack 🤣
+- 🌱 I’m currently on a road map from no stack to full stack 🤣
 - 👯 I’m looking to collaborate with other developers learning to code.
 - 🥅 2022 Goals: Collaborate more on projects, master Javascript, CSS and Git workflow.
 - ⚡ Fun fact: I love to read and play football 
