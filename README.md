@@ -6,7 +6,7 @@ My ideal world would be a parallel universe in which coding was the official lan
 therefore it would be critical for a handful to enable for people to communicate!
 A science fiction at worse and a near future at best! You be the judge!
 I digress but, my point being I believe learning to code would make us an all rounded better human beings altogether, more rational and certainly be better at solving some of our most pressing challenges we face on a global scale!
-To me it seems as if we are less of rational decisions every day and the only hope it seems is CODING!  
+To me it seems as if we are making less of rational decisions every day and the only hope it seems is CODING!  
 And on that scary note my odd script is done and I am the worst scripy written no pun intended! God save us all!
 🤞
 - 🔭 I’m currently working on [Execute Program][website]!
@@ -54,7 +54,6 @@ And on that scary note my odd script is done and I am the worst scripy written n
 [website]:https://scrimba.com/dashboard/
 [twitter]: https://twitter.com/Bereketweldu
 [youtube]: https://www.youtube.com/c/WebDevSimplified
-[instagram]: https://instagram.com/Bereket
 [linkedin]: https://linkedin.com/in/Bereketmebrahtu 
 [webdevplaylist]: https://www.youtube.com/watch?v=RGOj5yH7evk
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
