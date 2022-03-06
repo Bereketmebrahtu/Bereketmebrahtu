@@ -1,7 +1,12 @@
 ## Hi there, I am Bereket - Aspiring Software Developer👋
 
- ✨ _Welcome to my profile_ ✨  -->
-
+ ✨ _Welcome to my profile_✨  -->
+My ideal world would be a parallel universe in which coding was the official language and no one spoke it fluently, 
+therefore it would be critical for a handful to enable for people to communicate! A science fiction at worse and a near future at best! You be the judge!
+I digress but, my point being I believe learning to code would make us an all rounded human beings altoi,ore rational and certainly be better at solving our most pressing challenges we face on a global scale!
+To me it seems as if we are making more and more less irrational decisions every day and the only hope it seems is CODEING!  
+And on that scary note my odd scrio is done and I am the worst scripy written no pun intended! God save us all
+🤞
 - 🔭 I’m currently working on [Execute Program][website]!
 - 🌱 I’m interested in learning frontend and backend  developement with a special interest in JavaScript.
 - - 👯 I’m looking to collaborate with other developers learning to code.
