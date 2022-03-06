@@ -3,7 +3,7 @@
  ✨ _Welcome to my profile_✨  -->
 
 My Ideal utopian world would be a parallel universe in which coding was the official language and no one spoke it fluently, 
-therefore it would be critical for a handful to enable for highly competent developers to help humanity communicate! The worst Science fiction script at worse and a near future reality at best! You be the judge!
+therefore it would be critical for a handful extremely competent developers to enable for humanity to communicate! The worst Science fiction script at worse and a near future reality at best! You be the judge!
 I digress, but my point Is founded on the belief that learning to code would make us an all rounded better human beings altogether, more rational and certainly better at solving some of our most pressing challenges we face on a global scale!
 To me it seems as if we are making more and more of Irrational decisions every day and our collective IQ is on a decline for various reasons and the only hope it seems is CODING! Or so I believe! 
 
