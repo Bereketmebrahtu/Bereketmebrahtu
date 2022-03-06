@@ -2,7 +2,7 @@
 
  ✨ _Welcome to my profile_✨  -->
 
-My ideal world would be a parallel universe in which coding was the official language and no one spoke it fluently, 
+My Ideal utopian world would be a parallel universe in which coding was the official language and no one spoke it fluently, 
 therefore it would be critical for a handful to enable for people to communicate!
 A science fiction at worse and a near future at best! You be the judge!
 I digress but, my point being I believe learning to code would make us an all rounded better human beings altogether, more rational and certainly be better at solving some of our most pressing challenges we face on a global scale!
