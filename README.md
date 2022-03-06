@@ -1,6 +1,7 @@
 ## Hi there, I am Bereket - Aspiring Software Developer👋
 
  ✨ _Welcome to my profile_✨  -->
+
 My ideal world would be a parallel universe in which coding was the official language and no one spoke it fluently, 
 therefore it would be critical for a handful to enable for people to communicate!
 A science fiction at worse and a near future at best! You be the judge!
