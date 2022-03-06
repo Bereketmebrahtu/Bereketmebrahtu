@@ -15,7 +15,7 @@ A world where every decision is made based on tried and tested algorithm involvi
 Freaky robotic utopia or a perfectly unencumbered world!
 
   
-And on that scary note my odd script is done and I am the worst script writer known to men, no pun intended! God save us all! Let us Code! 😀
+And on that scary note my odd script is done and I am the worst script writer known to man, no pun intended! God save us all! Let us Code! 😀
 🤞
 - 🔭 I’m currently working on [Execute Program][website]!
 - 🌱 I’m interested in learning frontend and backend  developement with a special interest in JavaScript.
