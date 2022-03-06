@@ -65,7 +65,7 @@ And on that scary note my odd script is done and I am the worst script writer kn
 [website]:https://scrimba.com/dashboard/
 [twitter]: https://twitter.com/Bereketweldu
 [youtube]: https://www.youtube.com/c/WebDevSimplified
-[linkedin]: https://linkedin.com/in/Bereketmebrahtu 
+[linkedin]: https://linkedin.com/in/Bereket mebrahtu 
 [webdevplaylist]: https://www.youtube.com/watch?v=RGOj5yH7evk
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
