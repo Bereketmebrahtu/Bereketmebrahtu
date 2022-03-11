@@ -13,7 +13,7 @@ more rational and certainly better at solving some of the most pressing challeng
 
 To me it seems as if we are making more and more of Irrational decisions every day and our collective IQ is on a decline for various reasons and the only hope it seems is CODING! Or so I believe! 
 
-A world where every decision is made based on tried and tested algorithm involving consistent and meticulous scripting, eliminating human bias and decisions are made purely on logical arguments.
+A world where every decision is made based on tried and tested algorithm involving consistent and meticulous scripting, eliminating human bias. Decisions are made purely on logical arguments.
 
 Freaky robotic utopia or a perfectly unencumbered world!
 
